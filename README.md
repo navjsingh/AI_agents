@@ -23,7 +23,7 @@ It uses:
 
 ## 🚀 Live Chatbot
 
-Using the [ADK Web](https://ai.google.dev/agent-builder/web) interface, this project creates an interactive chatbot with the tools registered as agent functions.
+Using the [ADK Web](https://github.com/google/adk-web) interface, this project creates an interactive chatbot with the tools registered as agent functions.
 
 ---
 
