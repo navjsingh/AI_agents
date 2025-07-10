@@ -45,14 +45,14 @@ OPENWEATHER_API_KEY=your_actual_openweather_api_key_here
 
 ### 3. Create & Activate Virtual Environment (Recommended):
 
-# Create
+#### Create
 ```python -m venv .venv```
-# Activate (each new terminal)
-# macOS/Linux: 
+#### Activate (each new terminal)
+#### macOS/Linux: 
 ```source .venv/bin/activate```
-# Windows CMD: 
+#### Windows CMD: 
 ```.venv\Scripts\activate.bat```
-# Windows PowerShell: 
+#### Windows PowerShell: 
 ```.venv\Scripts\Activate.ps1```
 
 ### 4. Install Dependencies
